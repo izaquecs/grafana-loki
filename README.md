@@ -1,7 +1,7 @@
 # Grafana
 
 - Grafana Loki - Dashboard, gerenciamento e organização dos dados
-- Fluentd - Coletor via udp e Ingestor de dados no loki.
+- Fluent bit - Coletor via udp e Ingestor de dados no loki.
 
 Sugestão de implementação
 ```
